@@ -1,0 +1,12 @@
+{
+  "name": "udafitness",
+  "displayName": "udafitness",
+  "expo": {
+    "name": "udafitness",
+    "slug": "udafitness",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
